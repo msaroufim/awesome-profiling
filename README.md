@@ -11,6 +11,9 @@
 * [jemalloc](https://github.com/jemalloc/jemalloc): another heap memory profiler
 * [ETW](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/event-tracing-for-windows--etw-): Event tracing for windows
 * [Mac OS instruments](https://knowledge.broadcom.com/external/article/180011/how-to-use-macintosh-xcodes-instruments.html): Mac OS instruments for profiling based on top of Dtrace
+* [Renderdoc](https://github.com/baldurk/renderdoc): Multi platform graphics debugger for OpenGL and Vulkan
+* [Windows Perf Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer): If `htop` could plot lines, windows only but recently added support for android
+* 
 
 ## Python specific
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
@@ -36,17 +39,22 @@
 * [Tracy](https://github.com/wolfpld/tracy): Windows only but very comprehensive and helpful for game development
 * [Callgrind](https://valgrind.org/docs/manual/cl-manual.html): Valgrind extension
 
+## Web specific 
+* [Chrome profiler](https://developer.chrome.com/docs/devtools/evaluate-performance/): Support for throttling, emulating weak hardware, 
+
 ## Machine Learning specific 
 * [Pytorch profiler](https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/): Visual profiles of computations and data loading for PyTorch models, requires changes to code
 
 ## CPU specific
 * [ARM profiling](https://developer.arm.com/tools-and-software/server-and-hpc/debug-and-profile/arm-forge/arm-map/python-profiling): ARM specific profiling tools, heavyweight UI
 * [Intel Vtune](https://www.intel.com/content/www/us/en/develop/documentation/vtune-help/top/analyze-performance/code-profiling-scenarios/python-code-analysis.html)
+* [Intel GPA](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html): Intel Graphics performance analyzer
 
 ## GPU specific
 * [pynvml](https://github.com/gpuopenanalytics/pynvml): Like `nvidia-smi` for your code with deeper level instrumentation
 * [NVIDIA visual profiler](https://developer.nvidia.com/nvidia-visual-profiler)
 * [NVIDIA tools](https://developer.nvidia.com/tools-overview)
+* [GPU View](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/using-gpuview#:~:text=GPUView%20(GPUView.exe)%20is,processing%20on%20the%20video%20hardware.): Windows specific GPU profiling
 
 ## Books
 * [System Performance Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
