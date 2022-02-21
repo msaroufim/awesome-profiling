@@ -13,7 +13,7 @@
 * [Mac OS instruments](https://knowledge.broadcom.com/external/article/180011/how-to-use-macintosh-xcodes-instruments.html): Mac OS instruments for profiling based on top of Dtrace
 * [Renderdoc](https://github.com/baldurk/renderdoc): Multi platform graphics debugger for OpenGL and Vulkan
 * [Windows Perf Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer): If `htop` could plot lines, windows only but recently added support for android
-* 
+* [htop](https://htop.dev/): Visualize utilization as bar charts or line charts, issue commands to processes
 
 ## Python specific
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
