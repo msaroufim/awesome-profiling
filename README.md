@@ -69,3 +69,4 @@
 
 ## Talks
 * [scalene talk](https://www.youtube.com/watch?v=5iEf-_7mM1k)
+* [Why performance matters](https://www.youtube.com/watch?v=r-TLSBdHe1A&)
