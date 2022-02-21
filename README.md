@@ -28,6 +28,7 @@
 * [gprof2dot](https://github.com/jrfonseca/gprof2dot): Graphical call stack visualizer (Maintenance mode)
 * [snakeviz](https://jiffyclub.github.io/snakeviz/): Visualize python cprofile data
 * [scalene](https://github.com/plasma-umass/scalene): CPU and GPU based profiling with a web GUI
+* [pprofile](https://github.com/vpelletier/pprofile): Very low overhead line profile
 
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
@@ -65,3 +66,6 @@
 * [Flame Graphs](https://www.brendangregg.com/flamegraphs.html): flame graphs vs flame charts, off cpu profiling, icicle charts and more
 * [Sampling vs Tracing](https://danluu.com/perf-tracing/): sampling based profilers are easier to use since they don't require any code change while instrumentation based profilers require code changes but are generally more informative
 * [C++ performance tools](https://www.reddit.com/r/cpp/comments/7kurp6/comment/drhpyfh/?utm_source=share&utm_medium=web2x&context=3): reddit post with tons of links
+
+## Talks
+* [scalene talk](https://www.youtube.com/watch?v=5iEf-_7mM1k)
