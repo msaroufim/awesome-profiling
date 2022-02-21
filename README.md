@@ -25,6 +25,7 @@
 
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
+* [Java visual VM](https://visualvm.github.io/download.html): Bundled with JDK
 
 ## C# specific
 * [Unity profiler](https://docs.unity3d.com/Manual/Profiler.html): profiling tools specific for game development
