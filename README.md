@@ -27,6 +27,7 @@
 * [TAU](https://www.cs.uoregon.edu/research/tau/home.php)
 * [gprof2dot](https://github.com/jrfonseca/gprof2dot): Graphical call stack visualizer (Maintenance mode)
 * [snakeviz](https://jiffyclub.github.io/snakeviz/): Visualize python cprofile data
+* [scalene](https://github.com/plasma-umass/scalene): CPU and GPU based profiling with a web GUI
 
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
