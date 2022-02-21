@@ -9,6 +9,8 @@
 * [google perf tools](https://github.com/gperftools/gperftools)
 * [Heaptrack](https://github.com/KDE/heaptrack): a heap memory profiler for linux
 * [jemalloc](https://github.com/jemalloc/jemalloc): another heap memory profiler
+* [ETW](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/event-tracing-for-windows--etw-): Event tracing for windows
+* [Mac OS instruments](https://knowledge.broadcom.com/external/article/180011/how-to-use-macintosh-xcodes-instruments.html): Mac OS instruments for profiling based on top of Dtrace
 
 ## Python specific
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
@@ -44,6 +46,7 @@
 ## GPU specific
 * [pynvml](https://github.com/gpuopenanalytics/pynvml): Like `nvidia-smi` for your code with deeper level instrumentation
 * [NVIDIA visual profiler](https://developer.nvidia.com/nvidia-visual-profiler)
+* [NVIDIA tools](https://developer.nvidia.com/tools-overview)
 
 ## Books
 * [System Performance Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
