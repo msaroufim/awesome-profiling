@@ -70,3 +70,7 @@
 ## Talks
 * [scalene talk](https://www.youtube.com/watch?v=5iEf-_7mM1k)
 * [Why performance matters](https://www.youtube.com/watch?v=r-TLSBdHe1A&)
+
+## Understanding code structure
+* [pyreverse](https://www.redshiftzero.com/pyreverse-uml/): Get python classes and then visualize with `graphviz`
+* [pdb](https://stackoverflow.com/questions/4929251/how-to-step-through-python-code-to-help-debug-issues): Use step in functionality or line by line to understand how your code works
