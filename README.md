@@ -74,3 +74,4 @@
 ## Understanding code structure
 * [pyreverse](https://www.redshiftzero.com/pyreverse-uml/): Get python classes and then visualize with `graphviz`
 * [pdb](https://stackoverflow.com/questions/4929251/how-to-step-through-python-code-to-help-debug-issues): Use step in functionality or line by line to understand how your code works
+* [IntelliJ UML Class diagrams](https://www.jetbrains.com/help/idea/class-diagram.html)
