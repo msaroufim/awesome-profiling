@@ -34,6 +34,10 @@
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
 * [Java visual VM](https://visualvm.github.io/download.html): Bundled with JDK
 
+## Mobile specific
+* [iOS](https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/MeasuringPerformance.html): Instruments app in Xcode
+* [Android](https://developer.android.com/studio/profile/android-profiler): Android Profiler in Android Studio
+
 ## C# specific
 * [Unity profiler](https://docs.unity3d.com/Manual/Profiler.html): profiling tools specific for game development
 
@@ -41,10 +45,10 @@
 * [Tracy](https://github.com/wolfpld/tracy): Windows only but very comprehensive and helpful for game development
 * [Callgrind](https://valgrind.org/docs/manual/cl-manual.html): Valgrind extension
 
-## Web specific 
-* [Chrome profiler](https://developer.chrome.com/docs/devtools/evaluate-performance/): Support for throttling, emulating weak hardware, 
+## Web specific
+* [Chrome profiler](https://developer.chrome.com/docs/devtools/evaluate-performance/): Support for throttling, emulating weak hardware,
 
-## Machine Learning specific 
+## Machine Learning specific
 * [Pytorch profiler](https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/): Visual profiles of computations and data loading for PyTorch models, requires changes to code
 
 ## CPU specific
