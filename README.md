@@ -14,6 +14,7 @@
 * [Renderdoc](https://github.com/baldurk/renderdoc): Multi platform graphics debugger for OpenGL and Vulkan
 * [Windows Perf Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer): If `htop` could plot lines, windows only but recently added support for android
 * [htop](https://htop.dev/): Visualize utilization as bar charts or line charts, issue commands to processes
+* [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
 
 ## Python specific
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
