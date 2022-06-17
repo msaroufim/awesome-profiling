@@ -76,6 +76,7 @@
 ## Talks
 * [scalene talk](https://www.youtube.com/watch?v=5iEf-_7mM1k)
 * [Why performance matters](https://www.youtube.com/watch?v=r-TLSBdHe1A&)
+* [Common performance anti-patterns](https://www.youtube.com/watch?v=YY7yJHo0M5I)
 
 ## Understanding code structure
 * [pyreverse](https://www.redshiftzero.com/pyreverse-uml/): Get python classes and then visualize with `graphviz`
