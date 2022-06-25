@@ -30,6 +30,7 @@
 * [snakeviz](https://jiffyclub.github.io/snakeviz/): Visualize python cprofile data
 * [scalene](https://github.com/plasma-umass/scalene): CPU and GPU based profiling with a web GUI
 * [pprofile](https://github.com/vpelletier/pprofile): Very low overhead line profile
+* [austin-python](https://github.com/P403n1x87/austin-python): Line-level very low overhead time & memory profiler with web & terminal UI
 
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
@@ -75,6 +76,7 @@
 ## Talks
 * [scalene talk](https://www.youtube.com/watch?v=5iEf-_7mM1k)
 * [Why performance matters](https://www.youtube.com/watch?v=r-TLSBdHe1A&)
+* [Common performance anti-patterns](https://www.youtube.com/watch?v=YY7yJHo0M5I)
 
 ## Understanding code structure
 * [pyreverse](https://www.redshiftzero.com/pyreverse-uml/): Get python classes and then visualize with `graphviz`
