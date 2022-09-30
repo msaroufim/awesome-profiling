@@ -17,6 +17,7 @@
 * [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
 
 ## Python specific
+* [viztracer](https://github.com/gaogaotiantian/viztracer)
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
 * [pyinstrument](https://github.com/joerick/pyinstrument):python call stack visualizer
 * [pycallgraph](https://github.com/gak/pycallgraph): Visualize call stack as a graph (Maintenance mode)
