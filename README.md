@@ -15,6 +15,7 @@
 * [Windows Perf Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer): If `htop` could plot lines, windows only but recently added support for android
 * [htop](https://htop.dev/): Visualize utilization as bar charts or line charts, issue commands to processes
 * [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
+* [pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 
 ## Python specific
 * [viztracer](https://github.com/gaogaotiantian/viztracer)
