@@ -17,6 +17,10 @@
 * [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
 * [pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 
+## Continuous Profiling
+* [parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability
+* [parca-agent](https://github.com/parca-dev/parca-agent): eBPF-based always-on profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed! Supports multiple languages: C/C++, Rust, Go, Python, Ruby, Java, etc.
+
 ## Python specific
 * [viztracer](https://github.com/gaogaotiantian/viztracer)
 * [psutil](https://github.com/giampaolo/psutil): Like htop but from within your python code
