@@ -33,6 +33,7 @@
 * [scalene](https://github.com/plasma-umass/scalene): CPU and GPU based profiling with a web GUI
 * [pprofile](https://github.com/vpelletier/pprofile): Very low overhead line profile
 * [austin-python](https://github.com/P403n1x87/austin-python): Line-level very low overhead time & memory profiler with web & terminal UI
+* [py-perf](https://github.com/kakkoyun/py-perf) A low-overhead, sampling CPU profiler for Python implemented using eBPF.
 
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
