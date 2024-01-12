@@ -64,6 +64,8 @@
 * [NVIDIA visual profiler](https://developer.nvidia.com/nvidia-visual-profiler)
 * [NVIDIA tools](https://developer.nvidia.com/tools-overview)
 * [GPU View](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/using-gpuview#:~:text=GPUView%20(GPUView.exe)%20is,processing%20on%20the%20video%20hardware.): Windows specific GPU profiling
+* [ROC profiler](https://github.com/ROCm-Developer-Tools/rocprofiler): AMD ROCm profiler
+* [Omniperf](https://github.com/AMDResearch/omniperf): AMD profiler for MI100 and MI200 accelerators
 
 ## Books
 * [System Performance Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
