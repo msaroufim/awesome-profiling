@@ -75,6 +75,7 @@
 
 ## Blogs
 * [Flame Graphs](https://www.brendangregg.com/flamegraphs.html): flame graphs vs flame charts, off cpu profiling, icicle charts and more
+* [How to read icicle and flame graphs](https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs): Flame graphs and icicle graphs are a great way to visualize performance profiles. In this post, we will learn how to read and interpret them.
 * [Sampling vs Tracing](https://danluu.com/perf-tracing/): sampling based profilers are easier to use since they don't require any code change while instrumentation based profilers require code changes but are generally more informative
 * [C++ performance tools](https://www.reddit.com/r/cpp/comments/7kurp6/comment/drhpyfh/?utm_source=share&utm_medium=web2x&context=3): reddit post with tons of links
 
