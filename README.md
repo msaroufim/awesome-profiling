@@ -39,6 +39,11 @@
 * [austin-python](https://github.com/P403n1x87/austin-python): Line-level very low overhead time & memory profiler with web & terminal UI
 * [py-perf](https://github.com/kakkoyun/py-perf) A low-overhead, sampling CPU profiler for Python implemented using eBPF.
 
+## Ruby specific
+* [rbspy](https://github.com/rbspy/rbspy): Sampling CPU profiler for Ruby
+* [rbperf](https://github.com/javierhonduco/rbperf): Low-overhead sampling profiler and tracer for Ruby implemented in BPF
+* [vernier](https://github.com/jhawthorn/vernier): Next generation CRuby profiler
+
 ## Java specific
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
 * [Java visual VM](https://visualvm.github.io/download.html): Bundled with JDK
