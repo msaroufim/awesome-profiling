@@ -62,8 +62,9 @@
 ## Web specific
 * [Chrome profiler](https://developer.chrome.com/docs/devtools/evaluate-performance/): Support for throttling, emulating weak hardware,
 
-## Machine Learning specific
+## PyTorch specific
 * [Pytorch profiler](https://pytorch.org/blog/introducing-pytorch-profiler-the-new-and-improved-performance-tool/): Visual profiles of computations and data loading for PyTorch models, requires changes to code
+* [PyTorch memory profiler](https://pytorch.org/blog/understanding-gpu-memory-1/): Can help debug OOMs and memory spikes
 
 ## CPU specific
 * [ARM profiling](https://developer.arm.com/tools-and-software/server-and-hpc/debug-and-profile/arm-forge/arm-map/python-profiling): ARM specific profiling tools, heavyweight UI
@@ -77,6 +78,7 @@
 * [GPU View](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/using-gpuview#:~:text=GPUView%20(GPUView.exe)%20is,processing%20on%20the%20video%20hardware.): Windows specific GPU profiling
 * [ROC profiler](https://github.com/ROCm-Developer-Tools/rocprofiler): AMD ROCm profiler
 * [Omniperf](https://github.com/AMDResearch/omniperf): AMD profiler for MI100 and MI200 accelerators
+* [NVIDIA NCU](https://docs.nvidia.com/nsight-compute/NsightCompute/index.html): Infinitely more useful than NVIDIA's nsys, does a godbolt style view on PTX and gives actionable performance hints 
 
 ## Books
 * [System Performance Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
