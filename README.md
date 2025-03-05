@@ -16,6 +16,7 @@
 * [htop](https://htop.dev/): Visualize utilization as bar charts or line charts, issue commands to processes
 * [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
 * [pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
+* [Samply](https://github.com/mstange/samply): a command line CPU profiler which uses the Firefox profiler as its UI. works on macOS, Linux, and Windows.
 
 ## Continuous Profiling
 * [parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability
