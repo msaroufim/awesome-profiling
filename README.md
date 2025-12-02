@@ -46,6 +46,7 @@
 * [vernier](https://github.com/jhawthorn/vernier): Next generation CRuby profiler
 
 ## Java specific
+* [BitDive](https://bitdive.io): Runtime profiler for Java/Kotlin with distributed tracing, method-level latency measurement, and service maps
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html): Java profiler for cpu, multithreading, graphical call stack visualizer
 * [Java visual VM](https://visualvm.github.io/download.html): Bundled with JDK
 
