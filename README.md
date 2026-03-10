@@ -77,6 +77,7 @@
 * [NVIDIA visual profiler](https://developer.nvidia.com/nvidia-visual-profiler)
 * [NVIDIA tools](https://developer.nvidia.com/tools-overview)
 * [GPU View](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/using-gpuview#:~:text=GPUView%20(GPUView.exe)%20is,processing%20on%20the%20video%20hardware.): Windows specific GPU profiling
+* [Ingero](https://github.com/ingero-io/ingero): eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs via uprobes and host kernel events via tracepoints. Builds causal chains explaining GPU latency with full Python-to-CUDA stack traces.
 * [ROC profiler](https://github.com/ROCm-Developer-Tools/rocprofiler): AMD ROCm profiler
 * [Omniperf](https://github.com/AMDResearch/omniperf): AMD profiler for MI100 and MI200 accelerators
 * [NVIDIA NCU](https://docs.nvidia.com/nsight-compute/NsightCompute/index.html): Infinitely more useful than NVIDIA's nsys, does a godbolt style view on PTX and gives actionable performance hints 
