@@ -39,6 +39,7 @@
 * [pprofile](https://github.com/vpelletier/pprofile): Very low overhead line profile
 * [austin-python](https://github.com/P403n1x87/austin-python): Line-level very low overhead time & memory profiler with web & terminal UI
 * [py-perf](https://github.com/kakkoyun/py-perf) A low-overhead, sampling CPU profiler for Python implemented using eBPF.
+* [oracletrace](https://github.com/KaykCaputo/oracletrace): “Lightweight Python execution tracer that detects performance regressions by comparing execution traces across runs
 
 ## Ruby specific
 * [rbspy](https://github.com/rbspy/rbspy): Sampling CPU profiler for Ruby
