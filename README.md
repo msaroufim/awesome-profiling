@@ -17,6 +17,7 @@
 * [Magic Trace](https://github.com/janestreet/magic-trace): High resolution programmable traces
 * [pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 * [Samply](https://github.com/mstange/samply): a command line CPU profiler which uses the Firefox profiler as its UI. works on macOS, Linux, and Windows.
+* [flameox](https://github.com/morluto/flameox): Profiling and optimization toolkit for agents that captures traces, compares runs, and investigates application, compiled-service, GPU-kernel, and inference workloads.
 
 ## Continuous Profiling
 * [parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability
